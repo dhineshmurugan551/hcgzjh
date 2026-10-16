@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Disaster Rescue</string>
+    <string name="emergency_sos">EMERGENCY SOS</string>
+    <string name="call_112">Call 112</string>
+    <string name="report_disaster">Report Incident</string>
+    <string name="live_map">Disaster Map</string>
+    <string name="relief_camps">Relief Camps</string>
+    <string name="medical_help">Medical Assistance</string>
+    <string name="safety_guidelines">Safety Guidelines</string>
+</resources>

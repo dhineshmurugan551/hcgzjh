@@ -1,0 +1,6 @@
+{
+  "name": "Smart Disaster Rescue",
+  "description": "AI-Powered Emergency Response & Disaster Management System connecting victims, responders, relief camps, medical units, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
